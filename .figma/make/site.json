@@ -1,0 +1,15 @@
+{
+  "title": "Yassaha Ali | IT Project Manager & Business Analyst",
+  "description": "Portfolio of Yassaha Ali, an IT project manager, business analyst, systems analyst and software developer based in Watford.",
+  "language": "en-GB",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

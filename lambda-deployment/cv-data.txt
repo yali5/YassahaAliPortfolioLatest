@@ -1,0 +1,272 @@
+YASSAHA ALI
+IT PROJECT MANAGER | TECHNICAL BUSINESS ANALYST | SYSTEMS ANALYST | WMS / INTRALOGISTICS CONSULTANT
+
+Location: Watford, Hertfordshire, United Kingdom
+Email: yassahaali@gmail.com
+Telephone: 07548 601948
+Portfolio: www.yassahaali.com
+Nationality: British
+
+PROFESSIONAL PROFILE
+
+Yassaha Ali is an IT Project Manager, Technical Business Analyst, Systems Analyst and former Software Application Developer with approximately seven years of experience across IT infrastructure, enterprise applications, warehouse management systems, intralogistics, software development, business change and operational technology support.
+
+He has managed concurrent, multi-site technology projects across the United Kingdom and Europe, including projects with budgets of up to £2.2 million and a technology lease portfolio valued at more than £5 million. His delivery experience covers the full project lifecycle: initiation, discovery, requirements gathering, planning, budgeting, procurement, risk and issue management, governance, implementation, testing, transition to support, project closure and lessons learned.
+
+Yassaha combines formal project-management capability with hands-on technical knowledge. He is a PRINCE2 Practitioner and Professional Scrum Master I, and has professional experience with Agile Scrum, Waterfall delivery, Jira, Rally, Confluence, Microsoft Project, RAID management, change control, stakeholder engagement, vendor coordination, UAT, defect management, SQL, Java, Kotlin, Spring Boot, JavaScript, TypeScript, React, REST APIs, PostgreSQL, MongoDB, Google Cloud Platform and IT infrastructure.
+
+His warehouse-management experience includes professional work for SSI Schaefer supporting WAMAS-related warehouse and intralogistics solutions for major customers including Marks & Spencer and H&M. This involved analysing and documenting operational processes, supporting software change requests, producing requirements and specifications, conducting SQL-based analysis, facilitating workshops, supporting testing and implementation, and helping customers throughout the IT project lifecycle. His MSc Information Systems dissertation has further developed this specialism through a structured evaluation of SME warehouse management systems and the design of a WMS prototype.
+
+CORE COMPETENCIES AND RECRUITER KEYWORDS
+
+IT project management; technical project management; programme coordination; project lifecycle; project planning; project governance; PMO; PRINCE2; Agile; Scrum; Waterfall; Scrum Master; business analysis; technical business analysis; systems analysis; requirements engineering; requirements elicitation; functional requirements; non-functional requirements; functional specifications; user stories; epics; acceptance criteria; use cases; process mapping; As-Is analysis; To-Be design; gap analysis; business process improvement; business change; digital transformation; stakeholder management; senior stakeholder engagement; workshop facilitation; vendor management; supplier coordination; third-party management; cross-functional teams; matrix organisations; budget management; financial governance; CapEx; OpEx; LeaseEx; procurement; RFQ; quotations; invoices; reconciliation; Ariba; RAID logs; risks; assumptions; issues; dependencies; change control; status reporting; steering committees; governance reporting; resource coordination; delivery planning; implementation planning; release coordination; transition to support; operational handover; project closure; lessons learned; UAT; test support; defect management; incident management; problem analysis; ITIL; audit remediation; cybersecurity awareness; data analysis; SQL; REST APIs; microservices; cloud platforms; software development lifecycle; SDLC; CI/CD awareness; Java; Kotlin; Spring Boot; JavaScript; TypeScript; React; PostgreSQL; MongoDB; Docker; Google Cloud Platform; networking; LAN; WAN; WLAN; Wi-Fi; SD-WAN; routing; switching; telephony; office relocation; infrastructure refresh; end-user computing; IMAC; SCCM; ERP; SAP; SaaS.
+
+WAREHOUSE MANAGEMENT SYSTEMS AND INTRALOGISTICS
+
+Professional WMS and intralogistics experience:
+
+- Worked for SSI Schaefer as an IT Logistics Consultant and Systems Analyst, supporting warehouse and intralogistics technology used by global customers.
+- Supported major retail customers including Marks & Spencer and H&M.
+- Acted as a customer-facing subject-matter contact for SSI Schaefer IT solutions, including WAMAS-related warehouse-management processes and software changes.
+- Analysed, defined and helped optimise intralogistics and warehouse processes throughout the IT project lifecycle.
+- Gathered and clarified business and operational requirements through stakeholder discussions, remote workshops and on-site sessions.
+- Documented current-state and future-state processes using As-Is and To-Be analysis, process-flow diagrams, use-case diagrams and controlled documentation.
+- Translated operational needs into IT specifications, user stories, epics and other delivery documentation for Agile teams.
+- Supported change-request analysis for warehouse-management functionality and helped connect customer requirements with technical delivery.
+- Used SQL to investigate and analyse operational or application data.
+- Supported software implementation activities, user documentation, training materials, workshops and end-user training.
+- Contributed to testing and validation activities, including support for UAT, issue clarification and the assessment of whether delivered changes met operational requirements.
+- Worked across business, customer and technical perspectives, helping ensure that warehouse processes and system behaviour were understood by relevant stakeholders.
+- Supported JavaScript-related software-development work where required.
+
+Academic WMS evaluation and prototype:
+
+- Completing an MSc Information Systems dissertation focused on the evaluation of warehouse management systems for a simulated 20-person furniture SME.
+- Evaluated Odoo Community, inFlow Inventory and Fishbowl Warehouse against weighted criteria covering usability, performance, cost, implementation complexity and organisational fit.
+- Defined representative warehouse scenarios involving goods receipt, stock movement, order picking and dispatch.
+- Created and used a structured dataset of 40 stock-keeping units across four product categories.
+- Applied established information-systems and usability concepts, including the Technology Acceptance Model, the DeLone and McLean Information Systems Success Model, ISO 9241-11 usability principles and Nielsen usability principles.
+- Designed a visual WMS prototype named Tutus, informed by the platform evaluation and identified SME requirements.
+- Defined prototype scope covering a dashboard, inventory visibility, new-SKU creation, sales-order creation, picking, packing and dispatch.
+- Produced WMS user stories and delivery documentation for core workflows.
+- Designed a warehouse data model and stock-movement star schema, including fact and dimension structures for products, dates, users, movement types and related warehouse data.
+- Considered role-based access, product attributes, stock movements and workflow traceability within the prototype design.
+- Used PRINCE2 to structure the overall project and Agile techniques to support iterative prototype development.
+- Applied user-experience evaluation using the HEART framework to assess and critique the prototype.
+- The prototype is an academic design and development project; it is not represented as a live commercial WMS implementation.
+
+LEADERSHIP EXPERIENCE
+
+DIRECTOR
+Mazhar Ali Foundation
+September 2025 – Present
+
+- Defined and documented the organisation's mission, vision, objectives and governance arrangements.
+- Developed the organisational charter and established record-keeping and documentation practices.
+- Supported compliance with relevant legal, regulatory and governance requirements.
+- Prepared and managed budgets and cash-flow information for the organisation.
+- Developed and implemented fundraising activity to support community initiatives.
+- Designed, developed and maintained the organisation's website.
+- Implemented online donation and payment-processing functionality.
+- Managed website hosting, domain configuration and cybersecurity practices for the organisation's digital presence.
+- Combined leadership, governance, financial planning, technology delivery and stakeholder communication within a small community-focused organisation.
+
+PROFESSIONAL EXPERIENCE
+
+IT LOGISTICS CONSULTANT / SYSTEMS ANALYST
+SSI Schaefer
+November 2023 – May 2024
+Key customers: Marks & Spencer and H&M
+
+- Analysed, defined and supported the optimisation of warehouse and intralogistics processes for global customers.
+- Supported customers across the full IT project lifecycle, from requirements clarification and process analysis through specification, implementation support, testing, training and operational adoption.
+- Acted as a customer-facing subject-matter contact for SSI Schaefer IT and warehouse-management solutions.
+- Worked with WMS and WAMAS-related processes, operational requirements and software change requests in a warehouse and logistics environment.
+- Led or supported remote and on-site workshops with business users, operational stakeholders and technical colleagues.
+- Gathered requirements and converted operational needs into structured delivery artefacts.
+- Produced IT specifications, user documentation and training material for software implementations and system changes.
+- Documented As-Is and To-Be processes using use-case diagrams, process-flow diagrams and version-controlled documents.
+- Created and refined user stories and epics in Jira to support Agile estimation and delivery.
+- Helped ensure requirements were understandable, testable and aligned with customer warehouse operations.
+- Used SQL for application and operational data analysis, supporting investigation and evidence-based decision-making.
+- Supported UAT and issue resolution by clarifying expected behaviour, reviewing requirements and working with relevant delivery stakeholders.
+- Assisted with the identification, communication and management of defects or gaps discovered during testing and implementation.
+- Delivered workshops and training sessions to support adoption and consistent use of the implemented solution.
+- Supported software development in JavaScript when required.
+- Worked between customer, operational and technical teams, translating warehouse requirements into language suitable for system and software delivery.
+
+IT CONSULTANT
+Independent assignments for Air Canada, NTT GN and AVASO Technology Solutions
+December 2022 – October 2023
+
+- Delivered consultancy and technical-support services within business-change and IT-transformation environments.
+- Helped align workplace technology and infrastructure activity with operational requirements.
+- Managed Install, Move, Add and Change activities for desktops, laptops, printers and peripherals.
+- Supported the end-to-end deployment, replacement and management of end-user computing equipment.
+- Installed and troubleshot desktop and laptop operating systems.
+- Supported procurement and vendor-management processes associated with technology changes.
+- Delivered end-user guidance and training to support adoption of new or changed technology.
+- Applied ITIL-aligned thinking to incident handling, service support and process recommendations.
+- Gained hands-on experience with networking, routing and switching.
+- Installed and tested SD-WAN devices and validated network links.
+- Supported on-site implementation work, technical troubleshooting and coordination with customer and supplier teams.
+- Communicated technical issues in practical terms to users and stakeholders.
+
+SOFTWARE APPLICATION DEVELOPER
+Ford Credit Europe
+September 2021 – November 2022
+
+- Worked within a multidisciplinary Agile Scrum team delivering commercial vehicle-leasing management services for consumer and business customers.
+- Developed production-quality application functionality against requirements defined in user stories.
+- Helped translate customer and business needs into user stories and deliverable increments.
+- Participated in Agile ceremonies, backlog discussions, estimation and iterative delivery.
+- Developed and maintained services within a microservices-based application environment.
+- Supported application deployment to Google Cloud Platform.
+- Worked with Kotlin and Java, Spring Boot, React, TypeScript, JavaScript, PostgreSQL and MongoDB.
+- Applied knowledge of REST APIs, application integration, relational and NoSQL databases, source control and the software-development lifecycle.
+- Used Docker within the development environment.
+- Worked with development and collaboration tools including IntelliJ IDEA, Blueprint and WebEx.
+- Used software-composition and security-scanning tools including FOSSA and Checkmarx.
+- Collaborated with technical and business colleagues to investigate problems and deliver maintainable software changes.
+- Brought prior business-analysis and project-delivery experience into the development team, supporting clearer communication between requirements and implementation.
+
+IT PROJECT MANAGER AND SCRUM MASTER
+Ford Motor Company
+August 2018 – September 2021
+
+- Managed IT infrastructure and business-change projects across the United Kingdom and Europe from initiation through delivery, operational handover and closure.
+- Delivered projects with budgets of up to £2.2 million and managed multiple concurrent projects within a matrix organisation.
+- Managed up to four projects concurrently across four sites, coordinating teams of more than 12 people and delivery periods typically lasting eight to twelve months.
+- Led the technology workstream for the France Paris-to-Nanterre office relocation, with a budget of approximately £2.2 million, delivering within the required time, budget and scope.
+- Managed technology requirements for office and infrastructure change, including server-room, network, wireless access, conference-room, telephony, power and workplace-technology considerations.
+- Managed the ePrime office and training-room renewal and an ePrime new-build initiative.
+- Managed Daventry WLAN and LAN refresh activity and Dagenham LAN refresh activity.
+- Supported the Warley site-closure programme and associated technology considerations.
+- Oversaw a LeaseEx portfolio of telephony and LAN hardware leases valued at more than £5 million.
+- Managed project budgets, quotations, requests for quotation, purchase activity, invoices and financial reconciliation using Ariba.
+- Produced and maintained project plans, governance documentation, RAID logs, status reports and corporate reporting.
+- Identified, assessed, escalated and managed risks, assumptions, issues and dependencies.
+- Maintained communication with business owners, technical teams, suppliers, site stakeholders and governance groups.
+- Chaired or supported regular progress meetings and supplied information for steering and senior-management reporting.
+- Coordinated cross-functional and third-party resources within a matrix delivery environment.
+- Managed changes to project scope, schedule, cost and delivery assumptions using structured change-control principles.
+- Ensured project-management standards were applied in proportion to project size, risk and complexity.
+- Considered operational support requirements and operational risks during solution and implementation planning.
+- Coordinated project handover to business and operational-support teams.
+- Produced project-closure reports, lessons-learned reports and post-implementation review material where required.
+- Closed facilities and technology audit findings, including access-right and security issues.
+- Coordinated remediation of site risks, including water-damage issues and wireless-access-point shielding at Daventry.
+- Introduced Agile Scrum practices into telephony and PMO delivery activity.
+- Used Rally to manage backlogs and delivery items, including features, epics, sub-epics and user stories.
+- Trained two senior subject-matter experts in Agile delivery and Rally, supporting continued capability within the telephony team.
+- Applied Kaizen and continuous-improvement thinking to delivery practices.
+- Combined PRINCE2-style governance and control with Agile planning and iterative delivery where appropriate.
+
+IT BUSINESS ANALYST / SITE IT MANAGEMENT
+Ford Motor Company
+April 2017 – August 2018
+
+- Worked as an active member of the Dunton site-management team, combining business-facing IT coordination with hands-on technical support.
+- Served as a local point of contact between site management, business users, IT service providers and technical support teams.
+- Gathered information from users and stakeholders to understand incidents, recurring service issues and infrastructure requirements.
+- Troubleshot incidents involving hardware, software and network components.
+- Performed initial analysis, problem identification and service restoration, coordinating with other technical teams where necessary.
+- Supported infrastructure projects including Single Point of Failure remediation, 1GB-to-desk rollout, LAN upgrades and conference-room improvements.
+- Supported planning, implementation and ongoing delivery of IT services by third-party service providers.
+- Maintained communications between site management and business customers.
+- Promoted compliance with IT deskside policies and organisational technology standards.
+- Assisted with preparation for and response to IT-related audits.
+- Supported local IT security and incident-response requirements.
+- Managed or monitored consumption of deskside hardware and software.
+- Identified and documented existing support processes.
+- Analysed process issues affecting IT service provision and worked with appropriate teams to define improvements.
+- Produced monthly Client Health, Shared Disk and Group Policy Object metrics.
+- Used operational metrics to identify issues and support improvements to the security and health of the IT environment.
+- Participated in process-improvement and service-support meetings.
+
+IT DEPLOYMENT AND SUPPORT TECHNICIAN
+Three Rivers District Council
+May 2016
+
+- Supported the deployment of new desktop computers and Windows 7 across the organisation.
+- Rolled out Microsoft Office 2013 to end users.
+- Assisted with the migration of legacy software into a new technology environment.
+- Mapped users and user requirements onto replacement systems.
+- Created installation and support documentation for newly deployed software.
+- Troubleshot deployment and end-user issues.
+- Provided user support and training on the new environment.
+- Used Microsoft SCCM 2012 to perform relevant administrative and deployment tasks.
+- Supported a controlled technology rollout requiring attention to user readiness, compatibility and service continuity.
+
+DELIVERY ASSOCIATE
+Portland Resourcing
+May 2015 – January 2016
+
+- Developed working knowledge of SAP modules, integration points, ERP terminology and the responsibilities of functional and technical SAP specialists.
+- Built an understanding of the organisational benefits and cross-functional nature of ERP platforms.
+- Received training in change management and the effects of change on organisations and individuals.
+- Engaged with senior stakeholders, candidates and client organisations across technical and functional disciplines.
+- Supported recruitment activity involving major organisations including PepsiCo, Panalpina, British American Tobacco, the British Council and Technicolor.
+- Developed knowledge of enterprise SaaS products including Salesforce and Workday.
+- Conducted targeted candidate research and headhunting for specialist and senior appointments.
+- Managed professional communication, qualification discussions and client/candidate engagement.
+
+EDUCATION
+
+MSc Information Systems
+Kingston University
+September 2025 – Present
+
+- Current average approximately 79%, at distinction level.
+- Achieved 90% (A+) in Project Management.
+- Dissertation focused on WMS evaluation and the design of a warehouse-management prototype for an SME context.
+- Relevant areas include information systems, project delivery, enterprise systems, requirements analysis, system evaluation, data modelling, usability and prototyping.
+
+BSc (Hons) Human Factors Engineering / Ergonomics, 2:2
+Loughborough University
+October 2011 – July 2014
+
+- Developed knowledge of human factors, user-centred design, usability, systems thinking and the interaction between people, processes, technology and working environments.
+
+CERTIFICATIONS AND DEVELOPMENT
+
+- Professional Scrum Master I, Scrum.org, July 2024.
+- PRINCE2 Practitioner, July 2023.
+- PRINCE2 Foundation, March 2023.
+- Makers coding course, November 2021.
+
+TECHNICAL SKILLS
+
+Project and delivery tools: Jira, Confluence, Rally, Microsoft Project, Trello, Ariba, RAID logs, project plans, governance reports, backlog management, user stories, epics and acceptance criteria.
+
+Business analysis: requirements gathering, stakeholder interviews, workshops, functional specifications, use cases, process mapping, As-Is and To-Be analysis, gap analysis, user stories, UAT support, defect clarification, training documentation and process improvement.
+
+Warehouse and enterprise systems: WMS, WAMAS-related warehouse processes, intralogistics, goods receipt, inventory, stock movement, picking, packing, dispatch, order workflows, ERP concepts, SAP concepts and SaaS applications.
+
+Development: Java, Kotlin, Spring Boot, Ruby, JavaScript, TypeScript, React, REST APIs, microservices, SQL, PostgreSQL, MongoDB and Docker.
+
+Cloud and web: Google Cloud Platform, AWS hosting knowledge, S3, CloudFront, Lambda, API integration, Node.js, website hosting, domain management and payment-processing integration.
+
+Infrastructure and service management: LAN, WAN, WLAN, Wi-Fi, SD-WAN, routing, switching, telephony, desktop deployment, operating-system support, SCCM, IMAC, incident support, ITIL-aligned processes, audit remediation and operational handover.
+
+Security and quality tooling: Checkmarx, FOSSA, local IT-security practices, access controls, audit support and cybersecurity awareness.
+
+LANGUAGES
+
+- English: Fluent.
+- Urdu: Fluent.
+- Punjabi: Moderate proficiency.
+
+ADDITIONAL CONTEXT
+
+- Yassaha took a career break that included caring responsibilities for his disabled mother while continuing professional development, postgraduate study, personal technology projects and community-focused work.
+- He has hands-on experience building web applications and portfolio projects using technologies including React, Node.js, Spring Boot, PostgreSQL and API integrations.
+- He is interested in roles including IT Project Manager, Technical Project Manager, Business Analyst, Technical Business Analyst, Systems Analyst, WMS Consultant, WMS Business Analyst, Applications Business Analyst, PMO Analyst, Scrum Master, Agile Delivery and Technical Product Owner.
+
+ACCURACY BOUNDARIES FOR CHATBOT USE
+
+- Do not claim that Yassaha personally configured or administered every underlying SSI Schaefer or WAMAS technical component unless explicitly stated above.
+- Do not describe the MSc WMS prototype as a deployed commercial warehouse system. It is an academic evaluation and prototype project.
+- Do not claim direct line-management responsibility unless the question refers to project-team leadership, coordination or training described above.
+- Do not invent additional employers, qualifications, technologies, project budgets, dates, clients or achievements.
+- Where information is not included in this document, state that it is not available in the CV.

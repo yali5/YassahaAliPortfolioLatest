@@ -2,6 +2,12 @@ import { useState, useRef, useEffect } from 'react';
 import robotMascot from './assets/robot-mascot.png';
 import azureLogo from './assets/azure-logo.png';
 import ssiProject from './assets/project-ssi.jpg';
+import jobAvaso from './assets/job-avaso.jpg';
+import jobFordCredit from './assets/job-ford-credit.jpg';
+import jobFordDagenham from './assets/job-ford-dagenham.jpg';
+import jobFordDunton from './assets/job-ford-dunton.jpg';
+import jobThreeRivers from './assets/job-three-rivers.jpg';
+import charitySolar from './assets/charity-solar.jpg';
 
 // ─── Nav ────────────────────────────────────────────────────────────────────
 
@@ -109,7 +115,7 @@ function Hero() {
       <div className="max-w-6xl mx-auto px-6 w-full grid md:grid-cols-2 gap-12 items-center">
         {/* Text */}
         <div className="animate-fade-up">
-          <p className="font-display text-[#00d4ff] text-sm mb-3 tracking-widest">// IT Professional & Developer</p>
+          <p className="font-display text-[#00d4ff] text-sm mb-3 tracking-widest">// Technical Project Manager</p>
           <h1 className="font-display font-bold leading-none mb-6">
             <span className="block text-slate-400 text-2xl font-normal mb-1">Hi, I'm</span>
             <span className="block text-5xl md:text-6xl text-white">Yassaha</span>
@@ -117,7 +123,7 @@ function Hero() {
           </h1>
           <p className="text-slate-400 text-lg leading-relaxed mb-8 max-w-md font-body">
             IT Professional with expertise in Infrastructure, Project Management, and Software Development.
-            PRINCE2 &amp; ScrumMaster certified — BSc Ergonomics, Loughborough University.
+            PRINCE2 Practitioner &amp; Professional Scrum Master I (PSM I) — BSc Ergonomics, Loughborough University.
             <span className="text-slate-300"> Interested in web development &amp; project management.</span>
           </p>
           <div className="flex flex-wrap gap-4 mb-8">
@@ -188,9 +194,9 @@ function Hero() {
 
 const TECH_TAGS = [
   'HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'React', 'Node.js',
-  'Express', 'Next.js', 'Java', 'Ruby', 'Python', 'Azure AI',
-  'OpenAI', 'PRINCE2', 'Scrum', 'Agile', 'VS Code', 'Git',
-  'Tailwind CSS', 'REST APIs', 'WAMAS WMS', 'Network Engineering',
+  'Next.js', 'Java', 'Kotlin', 'Spring Boot', 'Ruby', 'SQL',
+  'Azure AI', 'OpenAI', 'Google Cloud', 'PRINCE2', 'PSM I', 'Agile',
+  'Jira', 'Git', 'Tailwind CSS', 'REST APIs', 'WAMAS WMS', 'Network Engineering',
 ];
 
 function TechMarquee() {
@@ -223,8 +229,8 @@ function TechMarquee() {
 // ─── Skills / About ───────────────────────────────────────────────────────────
 
 const FRONTEND = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Next.js', 'Tailwind CSS'];
-const BACKEND  = ['Node.js', 'Express', 'Java', 'Ruby', 'Python', 'REST APIs'];
-const INFRA    = ['Azure AI', 'OpenAI API', 'PRINCE2', 'ScrumMaster', 'Network Engineering', 'WAMAS WMS'];
+const BACKEND  = ['Node.js', 'Java', 'Kotlin', 'Spring Boot', 'Ruby', 'SQL', 'PostgreSQL', 'MongoDB', 'REST APIs'];
+const INFRA    = ['Azure AI', 'OpenAI API', 'Google Cloud Platform', 'PRINCE2 Practitioner', 'PSM I', 'Jira', 'Network Engineering', 'WAMAS WMS'];
 
 function SkillPill({ label }: { label: string }) {
   return (
@@ -275,7 +281,7 @@ function Skills() {
             along with a proven track record of managing key projects with budgets of up to <span className="text-white font-semibold">£2.2 million</span>, I bring both technical depth and leadership experience.
           </p>
           <p className="text-slate-400 leading-relaxed mb-6 font-body">
-            I hold a <span className="text-white font-semibold">PRINCE2</span> certification in project management and am <span className="text-white font-semibold">ScrumMaster</span> certified,
+            I am a <span className="text-white font-semibold">PRINCE2 Practitioner</span> and hold the <span className="text-white font-semibold">Professional Scrum Master I (PSM I)</span> certification,
             with hands-on experience leading Agile and Waterfall methodologies. My <span className="text-white font-semibold">BSc in Ergonomics</span> from Loughborough University
             underpins my focus on human factors, UX, and system design.
           </p>
@@ -289,11 +295,11 @@ function Skills() {
             </div>
             <div className="flex items-center gap-3">
               <div className="w-8 h-8 rounded bg-[rgba(0,212,255,0.1)] flex items-center justify-center flex-shrink-0 text-[#00d4ff] text-xs font-display font-bold">P2</div>
-              <span className="font-display text-sm text-slate-300">PRINCE2 Certified Project Manager</span>
+              <span className="font-display text-sm text-slate-300">PRINCE2 Practitioner</span>
             </div>
             <div className="flex items-center gap-3">
-              <div className="w-8 h-8 rounded bg-[rgba(0,212,255,0.1)] flex items-center justify-center flex-shrink-0 text-[#00d4ff] text-xs font-display font-bold">SM</div>
-              <span className="font-display text-sm text-slate-300">Certified ScrumMaster</span>
+              <div className="w-8 h-8 rounded bg-[rgba(0,212,255,0.1)] flex items-center justify-center flex-shrink-0 text-[#00d4ff] text-xs font-display font-bold">PSM</div>
+              <span className="font-display text-sm text-slate-300">Professional Scrum Master I (PSM I)</span>
             </div>
           </div>
         </div>
@@ -322,9 +328,10 @@ const MSC_MODULES = [
 ];
 
 const CERTS = [
-  { code: 'P2F', label: 'PRINCE2 Foundation', body: 'AXELOS / PeopleCert', color: '#00d4ff' },
-  { code: 'P2P', label: 'PRINCE2 Practitioner', body: 'AXELOS / PeopleCert', color: '#00d4ff' },
-  { code: 'PSM', label: 'Professional Scrum Master I', body: 'Scrum.org — PSM I', color: '#7c3aed' },
+  { code: 'PSM', label: 'Professional Scrum Master I (PSM I)', body: 'Scrum.org · July 2024', color: '#7c3aed' },
+  { code: 'P2P', label: 'PRINCE2 Practitioner', body: 'AXELOS / PeopleCert · July 2023', color: '#00d4ff' },
+  { code: 'P2F', label: 'PRINCE2 Foundation', body: 'AXELOS / PeopleCert · March 2023', color: '#00d4ff' },
+  { code: 'MKR', label: 'Makers Coding Course', body: 'Makers · November 2021', color: '#7c3aed' },
 ];
 
 function Education() {
@@ -347,10 +354,10 @@ function Education() {
               </div>
               <div>
                 <h3 className="font-display font-bold text-white text-base leading-tight">
-                  Ergonomics (Human Factors Design)
+                  BSc (Hons) Human Factors Engineering (Ergonomics)
                 </h3>
                 <p className="font-display text-[#00d4ff] text-xs mt-1">Loughborough University</p>
-                <p className="font-display text-slate-500 text-xs mt-0.5">2011 – 2014 · Second Class Honours (Lower Division)</p>
+                <p className="font-display text-slate-500 text-xs mt-0.5">Oct 2011 – Jul 2014 · 2:2</p>
               </div>
             </div>
             <p className="font-body text-slate-400 text-sm leading-relaxed mb-5">
@@ -395,12 +402,12 @@ function Education() {
                   Information Systems
                 </h3>
                 <p className="font-display text-[#a78bfa] text-xs mt-1">Kingston University London · Faculty of Engineering, Computing &amp; the Environment</p>
-                <p className="font-display text-slate-500 text-xs mt-0.5">2025/26 · Full Time · Dissertation in progress</p>
+                <p className="font-display text-slate-500 text-xs mt-0.5">Sep 2025 – Present · Dissertation in progress</p>
               </div>
             </div>
             <p className="font-body text-slate-400 text-sm leading-relaxed mb-5">
               Postgraduate study combining IT strategy, data management, agile delivery, and entrepreneurship.
-              All four taught modules completed with A-range grades; dissertation currently underway.
+              Distinction-track average to date (~79%), with all four taught modules completed at A-range grades; dissertation currently underway.
             </p>
 
             {/* Module table */}
@@ -442,7 +449,7 @@ function Education() {
         {/* Certifications */}
         <div>
           <p className="font-display text-slate-500 text-xs tracking-widest mb-4">PROFESSIONAL CERTIFICATIONS</p>
-          <div className="grid sm:grid-cols-3 gap-4">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
             {CERTS.map(cert => (
               <div
                 key={cert.code}
@@ -472,56 +479,58 @@ function Education() {
 
 const JOBS = [
   {
-    title: 'IT Logistics Consultant',
+    title: 'IT Logistics Consultant / Systems Analyst',
     company: 'SSI Schaefer',
     period: 'Nov 2023 – May 2024',
-    description: 'Working on WAMAS application (WMS) to provide customisation required by end customers via workshops, requests, and development.',
+    description: 'Analysed and optimised intralogistics processes for global clients including Marks & Spencer and H&M. Customer-facing SME covering As-Is/To-Be process documentation, Jira user stories and epics, SQL data analysis, and workshops.',
     img: ssiProject,
     imgAlt: 'SSI Schaefer warehouse automation',
     tag: 'WMS / Logistics',
   },
   {
-    title: 'IT Support Technician',
-    company: 'AVASO',
-    period: 'Dec 2022 – Nov 2023',
-    description: 'Freelance consultant providing Network Engineering tasks — rack/decommission operations and deskside support escalations.',
-    img: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop&auto=format',
+    title: 'IT Consultant',
+    company: 'Independent — Air Canada, NTT GN, AVASO Technology Solutions',
+    period: 'Dec 2022 – Oct 2023',
+    description: 'Consultancy for business change and IT transformation programmes. Managed end-to-end IMAC processes, supported procurement and vendor management, and applied ITIL practices across networking, routing, switching, and SD-WAN.',
+    img: jobAvaso,
     imgAlt: 'Network engineering data centre',
-    tag: 'Network / Support',
+    tag: 'Consultancy / Network',
   },
   {
-    title: 'Software Developer',
+    title: 'Software Application Developer',
     company: 'Ford Credit Europe',
-    period: 'Aug 2021 – Nov 2022',
-    description: 'Developed vehicle leasing software. Focused on SFA authentication, API endpoint integration, and Agile ceremonies.',
-    img: 'https://images.unsplash.com/photo-1591293836027-e05b48473b67?w=600&h=400&fit=crop&auto=format',
+    period: 'Sep 2021 – Nov 2022',
+    description: 'Engineered production JavaScript in an Agile Scrum team delivering vehicle-leasing services, deploying micro-services to Google Cloud with Kotlin/Java, Spring Boot, React/TypeScript, PostgreSQL, and MongoDB.',
+    img: jobFordCredit,
     imgAlt: 'Ford Mustang',
-    tag: 'Agile / FinTech',
+    tag: 'Software / Agile',
   },
   {
-    title: 'IT Project Manager',
+    title: 'IT Project Manager & Scrum Master',
     company: 'Ford Motor Company',
     period: 'Aug 2018 – Sep 2021',
-    description: 'Managed IT projects across Europe — office relocations, WLAN/LAN refreshes, and new infrastructure builds up to £2.2M.',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Ford_Engine_Factory_-_Dagenham_-_geograph.org.uk_-_2093382.jpg',
+    description: 'Led UK and European infrastructure and business-change programmes worth up to £2.2M per project — up to 4 concurrent projects across 4 sites with teams of 12+ — and oversaw a £5M+ portfolio of telephony and LAN hardware leases.',
+    img: jobFordDagenham,
     imgAlt: 'Ford Dagenham Engine Plant interior',
+    credit: 'Photo: Ashley Dace, CC BY-SA 2.0',
     tag: 'Infrastructure / PM',
   },
   {
-    title: 'IT Site Management BA',
+    title: 'IT Business Analyst',
     company: 'Ford Motor Company',
     period: 'Apr 2017 – Aug 2018',
-    description: 'Active member of the Dunton Site management team — IT support, communications, and local IT security oversight.',
-    img: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/Ford%27s_Dunton_Technical_Centre_-_geograph.org.uk_-_218069.jpg',
-    imgAlt: "Ford Dunton Technical Centre",
+    description: 'On-site IT support and incident response as part of the Dunton Site management team. Supported Single Point of Failure remediation and 1GB-to-desk projects, and produced monthly Client Health, Shared Disk, and GPO metrics.',
+    img: jobFordDunton,
+    imgAlt: 'Ford Dunton Technical Centre',
+    credit: 'Photo: Matthew Barker, CC BY-SA 2.0',
     tag: 'BA / Site Mgmt',
   },
   {
-    title: 'IT Deployment Technician',
+    title: 'IT Support',
     company: 'Three Rivers District Council',
     period: 'May 2016',
-    description: 'Supported the deployment of new computers and Windows 7 rollout across the district council.',
-    img: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop&auto=format',
+    description: 'Deployed new computers and Windows 7, rolled out MS Office 2013, and migrated legacy software to a new environment using SCCM 2012.',
+    img: jobThreeRivers,
     imgAlt: 'IT deployment technician',
     tag: 'Deployment',
   },
@@ -551,6 +560,11 @@ function Experience() {
               <span className="absolute top-3 right-3 font-display text-xs bg-[rgba(0,212,255,0.15)] border border-[rgba(0,212,255,0.3)] text-[#00d4ff] px-2 py-1 rounded">
                 {job.tag}
               </span>
+              {job.credit && (
+                <span className="absolute bottom-1 right-2 font-display text-[10px] text-slate-400/80">
+                  {job.credit}
+                </span>
+              )}
             </div>
             <div className="p-6">
               <p className="font-display text-[#00d4ff] text-xs tracking-wider mb-1">{job.period}</p>
@@ -608,7 +622,7 @@ function Charity() {
           {/* Visual */}
           <div className="relative rounded-2xl overflow-hidden h-72 md:h-full min-h-64 bg-slate-800">
             <img
-              src="https://images.unsplash.com/photo-1509391366360-2e959784a276?w=700&h=500&fit=crop&auto=format"
+              src={charitySolar}
               alt="Solar panels providing clean energy"
               className="w-full h-full object-cover"
             />
@@ -663,27 +677,63 @@ function Chatbot() {
     setLoading(true);
 
     try {
+      const latestUserMessage =
+        [...newMessages]
+          .reverse()
+          .find(({ role }) => role === 'user')
+          ?.content?.trim() ?? '';
+
       const res = await fetch('/api/chat', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ messages: newMessages.map(({ role, content }) => ({ role, content })) }),
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          message: latestUserMessage,
+        }),
       });
+
       const data = await res.json();
-      if (!res.ok || typeof data.message !== 'string') {
-        throw new Error(data.error || 'The assistant could not respond.');
+
+      if (!res.ok || typeof data.response !== 'string') {
+        throw new Error(
+          data.error || 'The assistant could not respond.'
+        );
       }
-      const aiTime = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-      setMessages([...newMessages, { role: 'assistant', content: data.message, timestamp: aiTime }]);
+
+      const aiTime = new Date().toLocaleTimeString([], {
+        hour: '2-digit',
+        minute: '2-digit',
+      });
+
+      setMessages([
+        ...newMessages,
+        {
+          role: 'assistant',
+          content: data.response,
+          timestamp: aiTime,
+        },
+      ]);
     } catch (error) {
-      setMessages([...newMessages, {
-        role: 'assistant',
-        content: error instanceof Error ? error.message : "The assistant is temporarily unavailable. Please try again shortly.",
-        timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
-      }]);
+      setMessages([
+        ...newMessages,
+        {
+          role: 'assistant',
+          content:
+            error instanceof Error
+              ? error.message
+              : 'The assistant is temporarily unavailable. Please try again shortly.',
+          timestamp: new Date().toLocaleTimeString([], {
+            hour: '2-digit',
+            minute: '2-digit',
+          }),
+        },
+      ]);
     } finally {
       setLoading(false);
     }
   };
+  
 
   return (
     <section id="chatbot" className="py-24 max-w-6xl mx-auto px-6">
@@ -710,7 +760,7 @@ function Chatbot() {
               This chatbot has a full copy of Yassaha's CV, skills, and work experience. Ask it anything — from his technical skills to his project management background.
             </p>
             <p className="font-body text-slate-400 leading-relaxed mb-8">
-              Currently looking for new opportunities? Get in touch after chatting to understand if Yassaha is the right fit for your project.
+              Yassaha is currently open to new opportunities. Get in touch after chatting to see if he is the right fit for your project.
             </p>
           </div>
           <a
@@ -819,7 +869,7 @@ function Footer() {
           <span className="font-display font-bold text-white text-sm">
             <span className="text-[#00d4ff]">{'>'}</span> yassaha.ali
           </span>
-          <span className="font-display text-slate-600 text-xs">— IT Professional & Developer</span>
+          <span className="font-display text-slate-600 text-xs">— Technical Project Manager</span>
         </div>
 
         <div className="flex items-center gap-6">

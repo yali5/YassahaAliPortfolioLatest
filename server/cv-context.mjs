@@ -17,7 +17,7 @@ FORD CREDIT EUROPE — SOFTWARE APPLICATION DEVELOPER (September 2021–November
 Worked in a multidisciplinary Agile Scrum team delivering a vehicle-leasing application. Developed production software from user stories, worked with microservices and cloud deployment, and helped create user stories. Technology included Kotlin/Java, Spring Boot, React, TypeScript/JavaScript, PostgreSQL, MongoDB, Docker and Google Cloud Platform.
 
 FORD MOTOR COMPANY — IT PROJECT MANAGER & SCRUM MASTER (August 2018–September 2021)
-Managed concurrent UK and European infrastructure projects and programmes through the full lifecycle. Major work included a £2.2 million Paris-to-Nanterre office relocation, Dunton ePrime office/training-room renewal and new build, Daventry WLAN/LAN refresh, and Dagenham LAN refresh. Managed scope, budgets, schedules, RAID logs, governance, stakeholder communications, steering meetings, reporting, handover, closure and lessons learned. Managed RFQs, quotations, invoices and reconciliations in Ariba. Introduced Agile Scrum practices for telephony and PMO work and used Rally for backlogs, features, epics and user stories.
+Managed concurrent UK and European infrastructure projects and programmes through the full lifecycle. Major work included a £2.2 million Paris-to-Nanterre office relocation, Dunton ePrime office/training-room renewal and new build, Daventry WLAN/LAN refresh, and Dagenham LAN refresh. Managed scope, budgets, schedules, RAID logs, governance, stakeholder communications, steering meetings, reporting, handover, closure and lessons learned. Oversaw a LeaseEx portfolio of telephony and LAN hardware leases valued at more than £5 million. Managed RFQs, quotations, invoices and reconciliations in Ariba. Introduced Agile Scrum practices for telephony and PMO work and used Rally for backlogs, features, epics and user stories.
 
 FORD MOTOR COMPANY — IT BUSINESS ANALYST / SITE MANAGEMENT (April 2017–August 2018)
 Acted as the local IT link for Ford's Dunton site. Supported infrastructure projects, incidents, service restoration, local IT security, audits, site communications and process improvement. Produced health and security metrics and coordinated with service providers and business stakeholders.
@@ -36,7 +36,7 @@ EDUCATION AND CERTIFICATIONS
 - Makers software-development course.
 
 CORE SKILLS
-Project and programme delivery; business analysis; requirements gathering; workshops; As-Is/To-Be analysis; process mapping; functional specifications; user stories and epics; UAT and defect support; RAID and change control; stakeholder communication; Agile, Scrum and Waterfall; warehouse-management systems; Java; Spring Boot; REST APIs; JavaScript; TypeScript; React; Node.js; SQL; PostgreSQL; MongoDB; Git; Docker; cloud deployment; LAN/WAN/WLAN and SD-WAN infrastructure.
+Project and programme delivery; business analysis; requirements gathering; workshops; As-Is/To-Be analysis; process mapping; functional specifications; user stories and epics; UAT and defect support; RAID and change control; stakeholder communication; Agile, Scrum and Waterfall; warehouse-management systems; Java; Kotlin; Spring Boot; Ruby; REST APIs; JavaScript; TypeScript; React; Node.js; SQL; PostgreSQL; MongoDB; Git; Docker; cloud deployment; LAN/WAN/WLAN and SD-WAN infrastructure.
 
 LANGUAGES
 English and Urdu fluent; Punjabi moderate.
